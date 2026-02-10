@@ -77,4 +77,4 @@ Cloud: AWS · GCP · Azure
 ## Contact
 
 Paris, France
-[julien.le-ber@efrei.net](mailto:julien.le-ber@efrei.net)
+[julienlb49@gmail.com](mailto:julienlb49@gmail.com)
